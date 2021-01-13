@@ -1,0 +1,16 @@
+C:\Users\Aditya Oberai\Desktop\SortList\bin\Debug\net5.0\SortList.exe
+C:\Users\Aditya Oberai\Desktop\SortList\bin\Debug\net5.0\SortList.deps.json
+C:\Users\Aditya Oberai\Desktop\SortList\bin\Debug\net5.0\SortList.runtimeconfig.json
+C:\Users\Aditya Oberai\Desktop\SortList\bin\Debug\net5.0\SortList.runtimeconfig.dev.json
+C:\Users\Aditya Oberai\Desktop\SortList\bin\Debug\net5.0\SortList.dll
+C:\Users\Aditya Oberai\Desktop\SortList\bin\Debug\net5.0\ref\SortList.dll
+C:\Users\Aditya Oberai\Desktop\SortList\bin\Debug\net5.0\SortList.pdb
+C:\Users\Aditya Oberai\Desktop\SortList\obj\Debug\net5.0\SortList.csprojAssemblyReference.cache
+C:\Users\Aditya Oberai\Desktop\SortList\obj\Debug\net5.0\SortList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Oberai\Desktop\SortList\obj\Debug\net5.0\SortList.AssemblyInfoInputs.cache
+C:\Users\Aditya Oberai\Desktop\SortList\obj\Debug\net5.0\SortList.AssemblyInfo.cs
+C:\Users\Aditya Oberai\Desktop\SortList\obj\Debug\net5.0\SortList.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Oberai\Desktop\SortList\obj\Debug\net5.0\SortList.dll
+C:\Users\Aditya Oberai\Desktop\SortList\obj\Debug\net5.0\ref\SortList.dll
+C:\Users\Aditya Oberai\Desktop\SortList\obj\Debug\net5.0\SortList.pdb
+C:\Users\Aditya Oberai\Desktop\SortList\obj\Debug\net5.0\SortList.genruntimeconfig.cache
